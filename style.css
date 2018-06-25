@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+    color:#00D2FF;
+    font-size: 18px;
+    background-image: url(https://stmed.net/sites/default/files/white-wallpapers-25354-2757189.jpg);
+    background-size: cover;
+    width:50%;
+    margin:auto;
+    
+}
+
+h1 {
+    text-align: center;
+    border-bottom:solid 5px aquamarine;
+    background-color: whit
+}
+img {
+    border: dotted 5px aquamarine;
+    border-radius: %12
+    margin:auto;
+    width: %50;
+    display:block
+}
